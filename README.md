@@ -24,6 +24,6 @@ I had done a translation from English to Polish language using 2 models
 Data :- http://www.manythings.org/anki/
  
 Refrences:-
-https://github.com/livingmagic/nmt-with-bert-tf2
-https://github.com/harshilpatel99/NMT_english2marthi
+https://github.com/livingmagic/nmt-with-bert-tf2, 
+https://github.com/harshilpatel99/NMT_english2marthi, 
 https://arxiv.org/abs/2002.06823
